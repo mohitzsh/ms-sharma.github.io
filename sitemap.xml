@@ -11,17 +11,17 @@
   </url>
   
   <url>
-    <loc>https:://ms-sharma.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https:://ms-sharma.github.io/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https:://ms-sharma.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https:://ms-sharma.github.io/</loc>
     <priority>0</priority>
   </url>
   
