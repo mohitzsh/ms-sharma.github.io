@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nirbhay Modhe on Mohit Sharma</title>
+    <link>https:://ms-sharma.github.io/authors/nirbhay-modhe/</link>
+    <description>Recent content in Nirbhay Modhe on Mohit Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https:://ms-sharma.github.io/authors/nirbhay-modhe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unsupervised Discovery of Decision States through Intrinsic Control</title>
+      <link>https:://ms-sharma.github.io/publication/modhe-2019-unsup-decision-states/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https:://ms-sharma.github.io/publication/modhe-2019-unsup-decision-states/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
